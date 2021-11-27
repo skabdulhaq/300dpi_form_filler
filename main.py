@@ -15,7 +15,7 @@ I like Developing, My  daily routine was used to be Eat, Code, Sleep, Repeat bef
 
 projects = """300dpi form filler : https://github.com/skabdulhaq/300dpi_form_filler
 Portfolio Repository: https://github.com/skabdulhaq/Future-Portfolio/
-Portfolio: https://skabdulhaq.github.io/Future-Portfolio/
+Portfolio Website: https://skabdulhaq.github.io/Future-Portfolio/
 India Map Game: https://github.com/skabdulhaq/India-Map-Game
 Auto insta following: https://github.com/skabdulhaq/Auto_Insta_Following_Bot/
 Movie links scraper: https://github.com/skabdulhaq/Movie_links_scraper
